@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color:lightslategrey;
+    height: 5%;
+    padding: 5px;
+}
+
+.item_nav{
+    font-size: large; 
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
